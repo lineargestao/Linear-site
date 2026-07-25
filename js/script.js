@@ -1,6 +1,2 @@
-...
-</section>
 
-<script src="css/js/script.js"></script>
-</body>
-</html>
+console.log("Linear Gestão carregada!");
